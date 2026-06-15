@@ -1,6 +1,6 @@
 # Synapse - Second Brain Frontend
 
-Synapse is a "second brain" web application designed for users to save, organize, and share digital content bookmarks (such as YouTube videos, tweets, articles, and documentation links).
+Synapse is a "second brain" web application designed for users to save, organize, and share digital content bookmarks (such as YouTube videos and tweets).
 
 This folder contains the frontend client application, built using **React**, **TypeScript**, **Vite**, and **Tailwind CSS v4**.
 
